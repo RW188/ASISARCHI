@@ -1,0 +1,10 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF.IUR.HA.DW"
+    id="62ef50bc">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+  <properties
+      key="New for To-Be"/>
+</archimate:ApplicationInterface>

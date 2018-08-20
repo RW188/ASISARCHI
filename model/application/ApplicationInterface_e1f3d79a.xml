@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF.EUR.HA.VMS"
+    id="e1f3d79a">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationInterface>

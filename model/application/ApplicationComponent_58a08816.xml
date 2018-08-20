@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web Browser"
+    id="58a08816">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+</archimate:ApplicationComponent>

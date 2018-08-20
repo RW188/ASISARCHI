@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote VMS Access"
+    id="d70cb710">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+</archimate:ApplicationComponent>

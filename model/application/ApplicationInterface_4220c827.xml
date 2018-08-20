@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF.IPP.HA.HGS"
+    id="4220c827">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+  <properties
+      key="Deprecated in To-Be"
+      value="After 2018"/>
+</archimate:ApplicationInterface>

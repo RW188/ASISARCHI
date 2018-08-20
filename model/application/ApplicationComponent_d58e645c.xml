@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audionet Voice Recording"
+    id="d58e645c">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationComponent>

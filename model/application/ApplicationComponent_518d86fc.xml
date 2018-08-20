@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HAWCS - Weather Service"
+    id="518d86fc">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+</archimate:ApplicationComponent>

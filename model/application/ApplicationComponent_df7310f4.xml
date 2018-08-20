@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatic Vehicle Location (AVL)"
+    id="df7310f4">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+</archimate:ApplicationComponent>

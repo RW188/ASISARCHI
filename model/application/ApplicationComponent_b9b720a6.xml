@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NTIS HGS"
+    id="b9b720a6">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationComponent>

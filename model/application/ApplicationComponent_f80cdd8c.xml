@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFDB - Fault Reporting"
+    id="f80cdd8c">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+</archimate:ApplicationComponent>

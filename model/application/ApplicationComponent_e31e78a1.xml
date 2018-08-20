@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tidal Flow"
+    id="e31e78a1">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationComponent>

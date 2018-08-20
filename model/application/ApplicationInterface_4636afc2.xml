@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF.SAA.HA.PSTN"
+    id="4636afc2">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationInterface>

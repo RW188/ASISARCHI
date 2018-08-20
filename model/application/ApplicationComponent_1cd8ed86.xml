@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command &amp; Control"
+    id="1cd8ed86">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationComponent>

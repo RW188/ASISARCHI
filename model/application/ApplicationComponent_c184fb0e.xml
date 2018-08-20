@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multiviewer"
+    id="c184fb0e">
+  <properties
+      key="CHARM Scope"
+      value="Yes"/>
+</archimate:ApplicationComponent>

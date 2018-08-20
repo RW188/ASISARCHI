@@ -1,0 +1,10 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF.IPP.HA.TEPRO"
+    id="6d3d8142">
+  <properties
+      key="CHARM Scope"
+      value="No"/>
+  <properties
+      key="Deprecated in To-Be"/>
+</archimate:ApplicationInterface>

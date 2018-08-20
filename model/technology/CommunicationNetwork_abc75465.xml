@@ -1,0 +1,8 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NTIS Network"
+    id="abc75465">
+  <properties
+      key="Deprecated in To-Be"
+      value="Merged with NRTS National"/>
+</archimate:CommunicationNetwork>
